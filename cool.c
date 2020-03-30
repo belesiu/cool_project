@@ -12,8 +12,8 @@ int main()
 	printf("Done-0\n");
 	pritnf("Done-0a\n");
 	printf("Done-1\n");
-	printf("Done-1\n");
 	printf("Dona-1b\n");
+	printf("Done-2\n");
 	return 0;
 }
 
