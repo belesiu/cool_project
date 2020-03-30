@@ -9,6 +9,7 @@ int main()
 	for (i = 0; i < x; i++)
 		printf("%d %d\n", i, x--);
 
+	printf("Done\n");
 	return 0;
 }
 
