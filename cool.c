@@ -10,7 +10,8 @@ int main()
 		printf("%d %d\n", i, x--);
 
 	printf("Done-0\n");
-	printf ("Done-1\n");
+	pritnf("Done-0a\n");
+	printf("Done-1\n");
 	return 0;
 }
 
